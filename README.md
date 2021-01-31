@@ -1,0 +1,2 @@
+# adaptive_arm_simulink
+用simulink与adams实现机械臂的自适应控制
